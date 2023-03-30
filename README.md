@@ -5,8 +5,10 @@
 | :exclamation: Important Note            |
 |-----------------------------------------|
 
-## Please fill in your project documentation in this README.md file 
+## Project to test precheck and tapeout production scripts.
 
-Refer to [README](docs/source/index.rst#section-quickstart) for a quickstart of how to use caravel_user_project
+Shuttle MPW-9.
 
-Refer to [README](docs/source/index.rst) for this sample project documentation. 
+Making more changes so this will be recognized as a different file.
+
+Currently, production version does not detect the default layout but the user version of precheck does.
